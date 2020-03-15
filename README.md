@@ -1,3 +1,2 @@
-# Palindrome words in Turkish language
-
+# Palindrome words
 Sources : https://code.google.com/archive/p/zemberek/downloads
