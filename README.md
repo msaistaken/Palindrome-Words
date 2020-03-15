@@ -1,2 +1,2 @@
 # Palindrome words
-Sources : https://code.google.com/archive/p/zemberek/downloads
+Sources : https://code.google.com/archive/p/zemberek/
